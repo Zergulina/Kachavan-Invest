@@ -1,0 +1,13 @@
+.ButtonContainer {
+    width: 16.5vw;
+    height: 5.8vh;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 1.3vh;
+  }
+  
+  .Text {
+    margin-left: 0.2vw;
+    margin-bottom: 0.2vw;
+  }
+  

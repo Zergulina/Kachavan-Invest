@@ -1,0 +1,108 @@
+.Admin {
+    height: 100vh;
+    background-color: rgba(241, 243, 249, 1);
+}
+
+.TitleContainer {
+    display: flex;
+    justify-content: center;
+    height: 3.5vh;
+}
+
+.Title {
+    font-family: "Montserrat", sans-serif;
+    margin-top: 4vh;
+    font-size: 3.5vh;
+    font-weight: 600;
+}
+
+.CurSelector {
+    position: absolute;
+    margin-top: 11.6vh;
+    margin-left: 4.6vw;
+}
+
+.TableSelector {
+    position: absolute;
+    margin-top: 19.7vh;
+    margin-left: 4.6vw;
+}
+
+.AddRow {
+    position: absolute;
+    margin-top: 8.5vh;
+    margin-left: 2.5vw;
+}
+
+.DeleteRow {
+    position: absolute;
+    margin-top: 16vh;
+    margin-left: 2.5vw;
+}
+
+.AddColumn {
+    position: absolute;
+    margin-top: 8.5vh;
+    margin-left: 22.5vw;
+}
+
+.DeleteColumn {
+    position: absolute;
+    margin-top: 16vh;
+    margin-left: 22.5vw;
+}
+
+.ResetTable {
+    position: absolute;
+    margin-top: 36vh;
+    margin-left: 4.6vw;
+}
+
+.NewTable {
+    position: absolute;
+    margin-top: 44.1vh;
+    margin-left: 4.6vw;
+}
+
+.DeleteTable {
+    position: absolute;
+    margin-top: 52.2vh;
+    margin-left: 4.6vw;
+}
+
+.TableContainer {
+    margin-left: 26vw;
+    margin-top: 7.5vh;
+    width: 72vw;
+    height: 80vh;
+}
+
+.Deny{
+    position: absolute;
+    margin-top: 76.5vh;
+    margin-left: 4.6vw;
+}
+
+.Apply {
+    position: absolute;
+    margin-top: 82.3vh;
+    margin-left: 4.6vw;
+}
+
+.TableName {
+    transition: none;
+    position: relative;
+    top:4.2vh;
+    left:2.5vw;
+}
+
+.Table {
+    position: relative;
+    top:6.2vh;
+    left:2.5vw;
+    width: 67vw;
+    height: 50vh;
+    background-color: rgb(238, 238, 238);
+    border-radius: 0.75vh;
+    border: 0.1vh solid rgba(0, 0, 0, 0.5);
+}

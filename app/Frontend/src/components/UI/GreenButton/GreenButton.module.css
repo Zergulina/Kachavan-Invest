@@ -1,0 +1,19 @@
+.GreenButton {
+    background-color: rgba(115, 201, 91, 1);
+    width: 16.395vw;
+    height: 3.7vh;
+    border-radius: 0.75vh;
+    box-shadow: 0 0.4vh 0.4vh 0 rgba(0, 0, 0, 0.25);
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.4vh;
+    font-weight: 700;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    border: none;
+    outline: none;
+}
+
+.GreenButton:hover {
+    background-color: rgb(108, 189, 86);
+    cursor: pointer;
+}

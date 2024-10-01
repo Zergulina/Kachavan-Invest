@@ -1,0 +1,54 @@
+.Home {
+  height: 100vh;
+  background-image: url("background.png");
+  background-size: cover;
+}
+
+.Map {
+  z-index: 1;
+  margin-top: -5vh;
+  height: 99vh;
+  pointer-events: none;
+  user-select: none;
+}
+
+.TextContainer {
+  position: absolute;
+  font-family: "Montserrat", sans-serif;
+  width: 80vh;
+  height: 20vh;
+  top: 30vh;
+  left: 7vh;
+}
+
+.Title {
+  font-size: 6vh;
+  font-weight: 700;
+  line-height: 7vh;
+}
+
+.Team {
+  font-weight: 400;
+  font-size: 4vh;
+  line-height: 4.3vh;
+}
+
+.TeamName {
+  font-weight: 700;
+  font-size: 4vh;
+  line-height: 4.3vh;
+}
+
+.SelectionContainer {
+  position: absolute;
+  top: 25vh;
+  right: 15vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.SelectionCircleContainer {
+  width: 65vh;
+  height: 65vh;
+}

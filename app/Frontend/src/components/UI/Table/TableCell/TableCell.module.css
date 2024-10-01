@@ -1,0 +1,10 @@
+.TableCell {
+    width:10vw;
+    height: 3.5vh;
+    text-align: center;
+    border: none;
+    border-bottom: 0.1vh solid rgba(0, 0, 0, 0.5);
+    border-right: 0.1vh solid rgba(0, 0, 0, 0.5);
+    outline: none;
+    box-sizing: border-box;
+}

@@ -1,0 +1,26 @@
+.Table {
+    overflow: auto;
+}
+
+.Header {
+    background-color: rgba(217, 217, 217, 1);
+    height: 4vh;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.6vh;
+    font-weight: 700;
+}
+
+.Row {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.6vh;
+    font-weight: 400;
+    background-color: black;
+}
+
+.Row0 {
+    background-color: white;
+}
+
+.Row1 {
+    background-color: rgba(244, 244, 244, 1);
+}

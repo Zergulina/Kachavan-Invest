@@ -1,0 +1,92 @@
+.Cur {
+    height: 100vh;
+    background-color: rgba(241, 243, 249, 1);
+}
+
+.TitleContainer {
+    display: flex;
+    justify-content: center;
+    height: 3.5vh;
+}
+
+.Title {
+    font-family: "Montserrat", sans-serif;
+    margin-top: 4vh;
+    font-size: 3.5vh;
+    font-weight: 600;
+}
+
+.Name {
+    font-family: "Montserrat", sans-serif;
+    margin-top: 5vh;
+    font-size: 2.2vh;
+    font-weight: 400;
+}
+
+.TableSelector {
+    position: absolute;
+    margin-top: 11.6vh;
+    margin-left: 4.6vw;
+}
+
+.GoalSelector {
+    position: absolute;
+    margin-top: 19.7vh;
+    margin-left: 4.6vw;
+}
+
+.ModelSelector {
+    position: absolute;
+    margin-top: 27.8vh;
+    margin-left: 4.6vw;
+}
+
+.InputHorizon {
+    position: absolute;
+    margin-top: 35.9vh;
+    margin-left: 4.6vw;
+}
+
+.Button {
+    position: absolute;
+    margin-top: 74.4vh;
+    margin-left: 4.6vw;
+}
+
+.PlotContainer {
+    margin-left: 26vw;
+    margin-top: 6vh;
+    width: 72vw;
+    height: 75vh;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+.TextModel {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 1.3vh;
+    top:5.6vh;
+    left:6.5vw;
+    position: relative;
+}
+
+.TextAccuracy {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 1.3vh;
+    top:5.8vh;
+    left:6.5vw;
+    position: relative;
+}
+
+.ValueText {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 1.3vh;
+}
+
+.Chart {
+    width: 100%;
+    height: 100%;
+}

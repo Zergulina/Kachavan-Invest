@@ -1,0 +1,18 @@
+.SelectionUnit {
+    position: absolute;
+    height: 50%;
+    margin-left: 42.5%;
+    transform-origin: bottom;
+    width: 15%;
+}
+
+.Image {
+    margin-top: 30%;
+    width: 100%;
+}
+
+.Image:hover{
+    padding-bottom: 20%;
+    margin-top: 10%;
+    transition: 0.1s;
+}

@@ -1,0 +1,25 @@
+.SelectContainer {
+    width: 16.5vw;
+    height: 5.8vh;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 1.3vh;
+}
+
+.List {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 1.3vh;
+  width: 16.5vw;
+  height: 3.8vh;
+  border-radius: 0.5vh;
+  box-shadow: 0 0.4vh 0.4vh 0 rgba(0, 0, 0, 0.25);
+  position: absolute;
+  border:none;
+  outline: 0;
+}
+
+.Text {
+  margin-left: 0.2vw;
+  margin-bottom: 0.2vw;
+}

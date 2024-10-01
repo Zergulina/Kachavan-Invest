@@ -1,0 +1,18 @@
+.Header {
+    height: 6.4vh;
+    width: 100%;
+    box-shadow: 0 0.3vh 0.4vh rgba(0, 0, 0, 0.25);
+    background-color: white;
+    position: relative;
+}
+
+.Logo {
+    margin-left: 15vw;
+}
+
+.Location {
+    height: 3.61vh;
+    position: absolute;
+    right: 25.1vw;
+    top:1.2vh;
+}
